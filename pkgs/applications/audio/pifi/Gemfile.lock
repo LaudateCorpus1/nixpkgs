@@ -13,7 +13,7 @@ GEM
       ruby-mpd (~> 0.3)
       sinatra (~> 2.0)
       thin (~> 1.7)
-    rack (2.2.3)
+    rack (2.2.6.2)
     rack-protection (2.1.0)
       rack
     ruby-mpd (0.3.3)
